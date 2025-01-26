@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 
-const DB = "mongodb+srv://taskProject:1234567890@task.5doedsw.mongodb.net/";
+const DB = "mongodb+srv://murugajop:Muruga2005@muruga.vsghq.mongodb.net/";
 
 mongoose.connect(DB).then(() => console.log("DB connection successful!"));
 
